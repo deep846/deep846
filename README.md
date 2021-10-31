@@ -53,9 +53,6 @@
 <br/>
 <br/>
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Deep Spotify Playing" width="550" />](https://open.spotify.com/playlist/6pdUFy0XkmsTfeoO3eEhPs?si=732bec2cd774441b)
 ## Connect with me:
 <p align="left">
 
