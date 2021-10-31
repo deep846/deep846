@@ -2,8 +2,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deep Choudhury</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+
 ## 🙋‍♂️ About Me
-👋 Hola, I’m @deep846 /-Deep Choudhury
+ 👋 Hola, I’m @deep846 /-Deep Choudhury
 - 👀 I’m interested in c / c++ / java /
 - 🌱 I’m currently learning  flutter / web-devlopement/ python /
 - 💞️ I’m looking to collaborate with c++ / java / problem Solving
