@@ -4,12 +4,12 @@
 
 ## 🙋‍♂️ About Me
  👋 Hola, I’m @deep846 /-Deep Choudhury
-- 👀 I’m interested in c / c++ / java /
+- 👀 I’m interested in Different SAP Technologies / sap UI5 / Fiori / Integration Suite / CAP / RAP
 
-- 🌱 I’m currently learning  flutter / web-devlopement/ python /
-- 💞️ I’m looking to collaborate with c++ / java / problem Solving
+- 🌱 I’m currently learning  SAP JOULE / SAP BUILD AI / Build Process Automation
+- 💞️ I’m looking to collaborate with JavaScript & problem Solving
 - ✔ Twitter: [`@I_am_dev_deep`](https://twitter.com/I_am_dev_deep)
-- 📧 Email Id: `developer.deepchoudhury@gmail.com`
+- 📧 Email Id: `contact.deepchoudhury@gmail.com`
 
 ## 🚀 Languages and Tools:
 
