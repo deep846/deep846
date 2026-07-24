@@ -1,3 +1,4 @@
+ <img src="https://i.imgur.com/iXuL1HG.png" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Deep Choudhury</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
@@ -17,7 +18,6 @@
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
     <!-- <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> -->
     <a href="https://dart.dev/" target="_blank"> <img src="https://i.imgur.com/iXuL1HG.png" width="45" height="45"/> </a>
-    <a href="https://www.sap.com/" target="_blank"> <img src="https://i.imgur.com/iXuL1HG.png" /> </a>
     <!--<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
