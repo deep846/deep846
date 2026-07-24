@@ -1,4 +1,4 @@
- <img src="https://i.imgur.com/iXuL1HG.png" />
+<img src="https://i.imgur.com/iXuL1HG.png" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Deep Choudhury</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
@@ -17,7 +17,10 @@
     <a href="https://www.sap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sap"/> </a>
     <a href="https://github.com/cap-js" target="_blank"> <img src="https://github.com/user-attachments/assets/13930689-d392-49f0-93fe-8af85ac6cb51" width="45" height="45"/> </a>
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
-    <!-- <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> -->
+    <a href="https://sap.com/" target="_blank"> <img width="45" height="45" alt="images" src="https://github.com/user-attachments/assets/69a3b13c-6f96-4f9b-ba64-d76db0783c87" /> </a>
+ <a href="https://sap.com/" target="_blank">  <img width="60" height="45" alt="images" src="https://github.com/user-attachments/assets/344d80e8-3167-4970-818f-d3576ff37dd7" /> </a>
+
+
     <a href="https://sap.com/" target="_blank"> <img width="45" height="45" alt="SAPUI5_orange_vertical" src="https://github.com/user-attachments/assets/63051f4d-4c17-45c3-b0f4-827028ad1993" /> </a>
     <!--<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript"/> </a>
